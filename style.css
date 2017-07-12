@@ -1,0 +1,9 @@
+img {
+	width: 100%;
+}
+
+.imagen-ampliada {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+}
